@@ -1,0 +1,11 @@
+[packages]
+requests = ""
+aiohttp = "*"
+bidict = "*"
+
+[dev-packages]
+ruff = "*"
+pytest = "*"
+requests = ""
+aiohttp = "*"
+bidict = "*"
